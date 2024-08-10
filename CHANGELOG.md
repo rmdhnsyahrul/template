@@ -1,3 +1,10 @@
+# [1.1.0-beta.2](https://github.com/rmdhnsyahrul/template/compare/v1.1.0-beta.1...v1.1.0-beta.2) (2024-08-10)
+
+
+### Features
+
+* typescript ([0a92edc](https://github.com/rmdhnsyahrul/template/commit/0a92edcc27cbd18c53b8098af3148052db38f7bd))
+
 # [1.1.0-beta.1](https://github.com/rmdhnsyahrul/template/compare/v1.0.0...v1.1.0-beta.1) (2024-08-10)
 
 
