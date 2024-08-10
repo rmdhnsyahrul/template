@@ -2,6 +2,7 @@
   "name": "my-repo-template",
   "version": "1.0.0",
   "description": "",
+  "type": "module",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Warning: no test specified\"",
@@ -11,6 +12,8 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "@commitlint/cli": "^19.4.0",
+    "@commitlint/config-conventional": "^19.2.2",
     "@eslint/js": "^9.9.0",
     "@semantic-release/changelog": "^6.0.3",
     "@semantic-release/git": "^10.0.1",
